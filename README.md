@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bao and I'm looking for a PhD opportunity in Control/Robotics for late 2021
+### Hi there 👋 I'm Bao and I'm looking for a PhD opportunity in Control/Robotics for late 2021!
 
 - :books: I’m currently studying towards a Master of Engineering ("Formation d'ingénieurs") [Automatic Control and Intelligent Systems](https://ense3.grenoble-inp.fr/fr/formation/filiere-automatique-systemes-intelligents#page-presentation) at Université Grenoble Alpes (UGA), France. Most courses are in French, while some are in English.
 - :computer: I’m currently conducting research at [GIPSA-lab](http://www.gipsa-lab.grenoble-inp.fr/en/home.php), a joint research unit between the French CNRS and UGA.
