@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm TRAN Gia Quoc Bao. I was born and grew up in Ho Chi Minh City, Vietnam.
+I'm TRAN Gia Quoc Bao. Call me Bao. I was born and grew up in Ho Chi Minh City, Vietnam.
 
 - :books: I’m currently studying towards a Master of Engineering ("Formation d'ingénieurs") Automatic Control and Intelligent Systems at Université Grenoble Alpes (UGA), France. The medium of instruction is French, while some courses are in English.
 - :computer: I’m currently working on research at GIPSA-lab, a joint research unit between the French CNRS and UGA.
